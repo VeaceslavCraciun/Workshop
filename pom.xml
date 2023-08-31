@@ -110,7 +110,7 @@
             <type>pom</type>
         </dependency>
 
-        <!-- https://mvn.com/artifact/io.cucumber/cucumber-junit -->
+        <!-- https://mvnripository.com/artifact/io.cucumber/cucumber-junit -->
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
